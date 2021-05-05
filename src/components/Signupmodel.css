@@ -1,0 +1,11 @@
+.app_signup_form{
+    display:flex;
+    flex-direction: column;
+}
+.app_signup_form input{
+    border: none;
+    font-size: 20px;
+    padding: 2%;
+    border-bottom: 1px solid lightgray;
+    outline: none;
+}
